@@ -2,7 +2,10 @@
 import pandas as pd
 
 # Load the CSV (replace with your file name)
-file_path = "/home/aswin/Learning/SmartEmailAgent/SmartEMail-AI-Agent/app/data/Bitext_Sample_Customer_Service_Testing_Dataset.csv"
+
+#Download the file from Kaggle data set
+file_path=None
+
 # print(data.columns)  # Lists column names
 
 # df= data.drop(columns =['tags'])
